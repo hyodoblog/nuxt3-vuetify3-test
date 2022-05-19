@@ -5,5 +5,5 @@ export default defineNuxtConfig({
   srcDir: 'src',
   build: {
     transpile: ['vuetify']
-},
+  },
 })
