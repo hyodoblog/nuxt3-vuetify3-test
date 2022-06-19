@@ -1,5 +1,4 @@
-<script lang="ts" setup>
-</script>
+<script lang="ts" setup></script>
 
 <template>
   <v-app>
@@ -11,5 +10,4 @@
   </v-app>
 </template>
 
-<style lang="scss">
-</style>
+<style lang="scss"></style>
