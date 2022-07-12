@@ -3908,10 +3908,10 @@ safe-buffer@~5.1.0, safe-buffer@~5.1.1:
   resolved "https://registry.yarnpkg.com/safer-buffer/-/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
 
-sass@^1.52.3:
-  version "1.52.3"
-  resolved "https://registry.yarnpkg.com/sass/-/sass-1.52.3.tgz#b7cc7ffea2341ccc9a0c4fd372bf1b3f9be1b6cb"
-  integrity sha512-LNNPJ9lafx+j1ArtA7GyEJm9eawXN8KlA1+5dF6IZyoONg1Tyo/g+muOsENWJH/2Q1FHbbV4UwliU0cXMa/VIA==
+sass@^1.53.0:
+  version "1.53.0"
+  resolved "https://registry.yarnpkg.com/sass/-/sass-1.53.0.tgz#eab73a7baac045cc57ddc1d1ff501ad2659952eb"
+  integrity sha512-zb/oMirbKhUgRQ0/GFz8TSAwRq2IlR29vOUJZOx0l8sV+CkHUfHa4u5nqrG+1VceZp7Jfj59SVW9ogdhTvJDcQ==
   dependencies:
     chokidar ">=3.0.0 <4.0.0"
     immutable "^4.0.0"
@@ -4592,10 +4592,10 @@ vue@^3.2.37:
     "@vue/server-renderer" "3.2.37"
     "@vue/shared" "3.2.37"
 
-vuetify@3.0.0-beta.4:
-  version "3.0.0-beta.4"
-  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-3.0.0-beta.4.tgz#39d6b9cc38f0e9f5f342dff3d7ca72924fe41735"
-  integrity sha512-saq44U5bDO5z7BNWVeBdyY37BTPOQTeuz7Tm3kyywMEDHhZKw9BhtCo/QodTndoofRSRWXfE7MI2/AEvG/1x+g==
+vuetify@3.0.0-beta.5:
+  version "3.0.0-beta.5"
+  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-3.0.0-beta.5.tgz#8ec5d7de5b52a10e098390188894e4f081cba363"
+  integrity sha512-mU+pO5ZAZOR2Z7eVBoPwZw6nePxT5Sdqpsa4++Q99TwVxXQ7jl76Cy97v72MkDYWfxjDjj8XvW6IqNPGrJpU8w==
 
 wcwidth@^1.0.1:
   version "1.0.1"
